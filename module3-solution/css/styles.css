@@ -1,0 +1,14 @@
+body {
+	background-color: azure;
+}
+
+/*navbar*/
+#header-nav {
+	background-color: orange;
+	border-radius: 0;
+	border: 0;
+}
+
+#header-nav h1 {
+	color: green;
+}
